@@ -6,7 +6,7 @@ The code is tested on Ubuntu 14.04 using a single NVIDIA Titan X GPU, 64G RAM an
 # Dependency
 - VLFEAT
 - MatConvNet
-- [VGG-VG16 model](http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-16.mat)
+- [VGG-VG16 model](http://www.vlfeat.org/matconvnet/models/imagenet-matconvnet-vgg-verydeep-16.mat)
 
 # How to run
 - Download the pretrained VGG model and put it under ./data/models
